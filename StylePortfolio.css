@@ -1,0 +1,33 @@
+
+body{
+
+    font-family: 'Poppins', sans-serif;;
+}
+h1{
+    font-size: 50px;
+}
+.section1{
+    background-image: url(Images/top-banner.png);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    
+    border: 1px solid gray;
+}
+.first-div{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    padding-left: 2%;
+    backgroundor: aquamarine;
+}
+.first-div img{
+    width: 100%;
+}
+.button-link{
+    text-decoration: none;
+    padding: 3px 6px;
+    background-color: orange;
+    border-radius: 2px;
+    color: aliceblue;
+}
